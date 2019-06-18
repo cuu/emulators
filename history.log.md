@@ -7,4 +7,7 @@ wget https://buildbot.libretro.com/nightly/linux/armhf/latest/nestopia_libretro.
 ```
 
 
+https://github.com/ruverav/mupen64plus-cpi-gsos03
+
+25ca3a1e332dce7771ada7631da05d5e  mupen64plus
 
